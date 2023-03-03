@@ -1,7 +1,5 @@
-### Olá! Eu sou o Lucas Lutf 👋
+### wave Olá! Seja Bem vindo ao meu perfil aqui no Github!
 
-- 🌱 estudando Vue.js
-- 💬 IFC Araquari 2/3
 
 <div align="center">
 <a href="https://github.com/lucaslutf">
