@@ -1,4 +1,4 @@
-### wave Olá! Seja Bem vindo ao meu perfil aqui no Github!
+### Olá! Seja Bem vindo ao meu perfil aqui no Github!
 
 
 <div align="center">
