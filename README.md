@@ -1,6 +1,5 @@
-<div align="center">
-### Olá! Seja Bem vindo ao meu perfil aqui no Github!
-</div>
+## Olá! Seja Bem vindo ao meu perfil aqui no Github!
+
 
 <div align="center">
 <a href="https://github.com/lucaslutf">
